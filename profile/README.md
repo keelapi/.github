@@ -1,8 +1,4 @@
-<img src="https://raw.githubusercontent.com/keelapi/.github/main/profile/keel-hull.svg" width="260" alt="Keel hull">
-
-# Keel
-
-**Decide what your AI can do. Prove what it did.**
+<img src="https://raw.githubusercontent.com/keelapi/.github/main/profile/keel-banner.svg" width="640" alt="Keel — Decide what your AI can do. Prove what it did.">
 
 Keel is a vendor-neutral authorization and accountability layer for AI agents:
 signed permits before an agent acts, independently verifiable cryptographic
