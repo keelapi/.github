@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="250" viewBox="0 0 640 250" role="img" aria-label="Keel — Decide what your AI can do. Prove what it did.">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="250" viewBox="0 0 640 250" role="img" aria-label="Keel — Keep your AI on course.">
 <style>
 .m { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 13px; }
-.wordmark { font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size: 58px; font-weight: 700; }
-.tag { font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size: 21px; fill: #768390; }
+.wordmark { font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size: 58px; font-weight: 700; fill: #1f2328; }
+.tag { font-family: -apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size: 22px; fill: #1f2328; }
 </style>
 <g transform="translate(0,4)">
 <text class="m" x="0" y="13" fill="#387cdc" xml:space="preserve"> ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;</text>
@@ -22,7 +22,6 @@
 <text class="m" x="0" y="223" fill="#082b7d" xml:space="preserve">        XXXXXXXXXXXXXXXXXX</text>
 <text class="m" x="0" y="238" fill="#062774" xml:space="preserve">        XXXXXXXXXXXXXXXXXX</text>
 </g>
-<text class="wordmark" x="300" y="103" fill="#2c76dd">Keel</text>
-<text class="tag" x="300" y="147">Decide what your AI can do.</text>
-<text class="tag" x="300" y="177">Prove what it did.</text>
+<text class="wordmark" x="300" y="118">Keel</text>
+<text class="tag" x="300" y="158">Keep your AI on course.</text>
 </svg>
